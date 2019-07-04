@@ -1,0 +1,19 @@
+{
+  "name": "hubb",
+  "version": "1.0.2",
+  "description": "A larger scale application designed to be a clone of Reddit",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TalArbatov/hubb.git"
+  },
+  "author": "Tal Arbetov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TalArbatov/hubb/issues"
+  },
+  "homepage": "https://github.com/TalArbatov/hubb#readme"
+}
